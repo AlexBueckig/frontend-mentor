@@ -13,5 +13,5 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
  - Intro component with sign-up form
    - [challenge-05 (mobile first using CSS-Grid and SCSS)](https://practical-lalande-efa4d1.netlify.com/)
  - Single price grid component
-   - [challenge-05 (mobile first using CSS-Grid and SCSS)](https://pensive-panini-3b5e59.netlify.com/)
+   - [challenge-06 (mobile first using CSS-Grid and SCSS)](https://pensive-panini-3b5e59.netlify.com/)
    
