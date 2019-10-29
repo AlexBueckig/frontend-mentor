@@ -14,4 +14,6 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
    - [challenge-05 (mobile first using CSS-Grid and SCSS)](https://practical-lalande-efa4d1.netlify.com/)
  - Single price grid component
    - [challenge-06 (mobile first using CSS-Grid and SCSS)](https://pensive-panini-3b5e59.netlify.com/)
+ - REST Countries API with color theme switcher
+   - [challenge-07 (mobile first using React and Emotion)](https://kind-shockley-d4f039.netlify.com/)
    
