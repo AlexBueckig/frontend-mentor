@@ -16,4 +16,6 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
    - [challenge-06 (mobile first using CSS-Grid and SCSS)](https://pensive-panini-3b5e59.netlify.com/)
  - REST Countries API with color theme switcher
    - [challenge-07 (mobile first using React and Emotion)](https://kind-shockley-d4f039.netlify.com/)
+ - URL shortening API landing page
+   - [challenge-08 (mobile first using React and SCSS)](https://quizzical-villani-c535a9.netlify.com/)
    
