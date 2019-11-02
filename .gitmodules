@@ -22,3 +22,6 @@
 [submodule "fm-challenge-08"]
 	path = fm-challenge-08
 	url = https://github.com/alexbueckig/fm-challenge-08
+[submodule "fm-challenge-09"]
+	path = fm-challenge-09
+	url = https://github.com/alexbueckig/fm-challenge-09
