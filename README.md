@@ -19,4 +19,6 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
  - URL shortening API landing page
    - [challenge-08 (mobile first using React and SCSS)](https://quizzical-villani-c535a9.netlify.com/)
  - Ping single column coming soon page
-   - [challenge-09 (mobile first using Grid, Flexbox and SCSS)](https://xenodochial-fermat-8a1773.netlify.com/)   
+   - [challenge-09 (mobile first using Grid, Flexbox and SCSS)](https://xenodochial-fermat-8a1773.netlify.com/)
+ - Clipboard landing page
+   - [challenge-10 (mobile first using Grid, Flexbox and SCSS)](https://laughing-mccarthy-28adbb.netlify.com/)   
