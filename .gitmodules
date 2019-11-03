@@ -18,10 +18,13 @@
 	url = https://github.com/alexbueckig/fm-challenge-06
 [submodule "fm-challenge-07"]
 	path = fm-challenge-07
-	url = https://github.com/AlexBueckig/fm-challenge-07
+	url = https://github.com/alexbueckig/fm-challenge-07
 [submodule "fm-challenge-08"]
 	path = fm-challenge-08
 	url = https://github.com/alexbueckig/fm-challenge-08
 [submodule "fm-challenge-09"]
 	path = fm-challenge-09
 	url = https://github.com/alexbueckig/fm-challenge-09
+[submodule "fm-challenge-10"]
+	path = fm-challenge-10
+	url = https://github.com/alexbueckig/fm-challenge-10
