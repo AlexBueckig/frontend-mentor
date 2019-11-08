@@ -31,3 +31,6 @@
 [submodule "fm-challenge-11"]
 	path = fm-challenge-11
 	url = https://github.com/alexbueckig/fm-challenge-11
+[submodule "fm-challenge-12"]
+	path = fm-challenge-12
+	url = https://github.com/alexbueckig/fm-challenge-12
