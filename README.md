@@ -23,4 +23,6 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
  - Clipboard landing page
    - [challenge-10 (mobile first using Grid, Flexbox and SCSS)](https://laughing-mccarthy-28adbb.netlify.com/)   
  - Huddle landing page with alternating feature blocks
-   - [challenge-10 (mobile first using Grid, Flexbox and SCSS)](https://flamboyant-bell-b75966.netlify.com/)   
+   - [challenge-11 (mobile first using Grid, Flexbox and SCSS)](https://flamboyant-bell-b75966.netlify.com/)
+ - Fylo dark theme landing page
+   - [challenge-12 (mobile first using Grid, Flexbox and SCSS)](https://heuristic-almeida-1c8c25.netlify.com/)   
