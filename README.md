@@ -27,4 +27,8 @@ This repository is a collection of all my solutions I submitted at [Frontend Men
  - Fylo dark theme landing page
    - [challenge-12 (mobile first using Grid, Flexbox and SCSS)](https://heuristic-almeida-1c8c25.netlify.com/)
  - Huddle landing page with single introductory section
-   - [challenge-13 (mobile first using Grid and SCSS)](https://dreamy-benz-104f59.netlify.com/)   
+   - [challenge-13 (mobile first using Grid and SCSS)](https://dreamy-benz-104f59.netlify.com/)
+ - Rock, Paper, Scissors game
+   - [challenge-15 (mobile first using React and Emotion)](https://trusting-noyce-4c0746.netlify.com/)    
+   
+   
